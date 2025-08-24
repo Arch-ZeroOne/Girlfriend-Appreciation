@@ -10,7 +10,7 @@ import yan8 from "../../assets/images/yanny-8.jpg";
 function Carousel() {
   return (
     <div className="flex justify-center items-center mr-auto ml-auto">
-      <div className="carousel rounded-box flex gap-5 items-center mt-20">
+      <div className="carousel rounded-box flex gap-5 items-center mt-10">
         <div className="carousel-item">
           <img src={yan1} alt="Burger" className="h-100" />
         </div>
